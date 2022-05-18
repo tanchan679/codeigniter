@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/js",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "tanchan679",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
